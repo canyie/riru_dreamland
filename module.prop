@@ -1,0 +1,8 @@
+id=riru_dreamland
+name=Riru-Dreamland
+author=canyie
+version=2.0
+versionCode=2000
+description=A third-party Xposed framework implementation, supports Android 7.0 ~ 11. Requires module 'Riru' is installed. Telegram group: @DreamlandFramework, QQ group: 949888394.
+minMagisk=19000
+api=5
